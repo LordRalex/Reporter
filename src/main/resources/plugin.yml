@@ -1,0 +1,6 @@
+main: net.ae97.reporter.Reporter
+name: ${project.name}
+description: Memory reporter
+version: ${project.version}
+authors: [Lord_Ralex, Eoin]
+database: false

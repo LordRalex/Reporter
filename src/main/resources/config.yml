@@ -1,0 +1,3 @@
+url: "http://localhost:1337/reporter"
+startdelay: 30;
+repeatdelay: 30;
